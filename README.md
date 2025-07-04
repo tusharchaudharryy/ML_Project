@@ -33,7 +33,8 @@ The project leverages Python libraries and machine learning algorithms to provid
 ├── README.md # Project documentation
 └── .gitignore # Git ignore rules
 
-text
+undefined
+
 
 ---
 
