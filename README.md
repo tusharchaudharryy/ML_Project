@@ -18,26 +18,6 @@ The project leverages Python libraries and machine learning algorithms to provid
 
 ---
 
-## Project Structure
-
-├── .ebextensions/ # AWS Elastic Beanstalk configuration files (if applicable)
-├── artifacts/ # Saved models and artifacts
-├── catboost_info/ # CatBoost model training info
-├── notebook/ # Jupyter notebooks for exploratory data analysis and model development
-├── src/ # Source code for data processing and model training
-├── static/css/ # CSS files for web frontend styling
-├── templates/ # HTML templates for Flask web app
-├── application.py # Flask application entry point
-├── requirements.txt # Python dependencies
-├── setup.py # Setup script for installing the package
-├── README.md # Project documentation
-└── .gitignore # Git ignore rules
-
-undefined
-
-
----
-
 ## Getting Started
 
 ### Prerequisites
